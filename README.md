@@ -1,2 +1,2 @@
 # go_project
-Simple Booking App
+# Simple Booking App
